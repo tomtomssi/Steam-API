@@ -160,6 +160,7 @@
             <artifactId>slf4j-api</artifactId>
             <version>1.7.5</version>
         </dependency>
+        <!-- Added a dependency for slf4j to function properly (no NOP) -->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
