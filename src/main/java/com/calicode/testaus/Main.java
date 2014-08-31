@@ -2,7 +2,7 @@ package com.calicode.testaus;
 
 import com.github.koraktor.steamcondenser.community.AppNews;
 import com.github.koraktor.steamcondenser.exceptions.WebApiException;
-import tatu.ssh.SSHReadFile;
+import com.calicode.ssh.SSHReadFile;
 
 import java.util.List;
 

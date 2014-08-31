@@ -1,4 +1,4 @@
-package tatu.ssh;
+package com.calicode.ssh;
 
 import com.jcraft.jsch.ChannelSftp;
 import com.jcraft.jsch.JSch;
